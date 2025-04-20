@@ -8,7 +8,7 @@ const Footer = () => {
         <div>
           <h3 className="text-2xl font-normal text-lynq-yellow mb-4">LynqLogic</h3>
           <p className="text-gray-400">
-            Your trusted partner for software, design, and cloud innovation.
+            Your trusted partner for software, design, and cloud innovation 123. 
           </p>
           <div className="flex gap-4 mt-4">
             <a href="#" aria-label="LinkedIn">
